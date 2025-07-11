@@ -1,0 +1,7 @@
+#Python 3.10.18
+
+matplotlib==3.10.3
+neurobench @ git+https://github.com/NeuroBench/neurobench.git@c8dfd473df2182427c75d8221ea443ccef249fe0
+numpy==1.26.4
+pandas==2.3.0
+torch==2.7.1
